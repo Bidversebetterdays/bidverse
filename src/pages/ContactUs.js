@@ -32,7 +32,7 @@ function ContactUs(){
                                                 </li>
                                                 <li>
                                                     <i className="fa fa-envelope"></i> 
-                                                    <span>trades@bidverse.org <br/>infio@bidverse.org</span>
+                                                    <span>trades@bidverse.org <br/>info@bidverse.org</span>
                                                 </li>
                                                 <li>
                                                     <i className="fas fa-map-marker-alt"></i>
